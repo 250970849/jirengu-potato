@@ -5,38 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/Todos/TodoInput.tsx" line="25" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="815eb9bc-4b29-4c05-8132-e3285bd098d1" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/PC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/PC.xml" afterDir="false" />
+    <list default="true" id="815eb9bc-4b29-4c05-8132-e3285bd098d1" name="默认更改列表" comment="...">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignUp/SignUp.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/SignUp.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignUp/SignUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp/SignUp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todos/TodoInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/TodoInput.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todos/TodoItem.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/TodoItem.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todos/TodoItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/TodoItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todos/Todos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/Todos.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todos/Todos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos/Todos.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/axios.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/axios.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/actionTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actionTypes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/actions/todos.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/todos.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/actions/tomatoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/tomatoes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/todos.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/todos.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/tomatoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/tomatoes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="399">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -65,19 +36,28 @@
         <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="209">
               <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -98,13 +78,14 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/src/components/Login/Login.scss" />
         <option value="$PROJECT_DIR$/src/components/SignUp/SignUp.scss" />
         <option value="$PROJECT_DIR$/src/config/histor.ts" />
@@ -144,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/redux/actionTypes.ts" />
         <option value="$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx" />
         <option value="$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
       </list>
     </option>
   </component>
@@ -164,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,50 +164,10 @@
               <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Todos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="redux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jirengu-potato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jirengu-potato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="redux" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,12 +236,22 @@
       <workItem from="1566825868556" duration="601000" />
       <workItem from="1566963711021" duration="16124000" />
       <workItem from="1567047467634" duration="4678000" />
-      <workItem from="1567079810638" duration="8779000" />
+      <workItem from="1567079810638" duration="8900000" />
+      <workItem from="1567090212508" duration="362000" />
+      <workItem from="1567091140722" duration="510000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1567090138641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567090138641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98008000" />
+    <option name="totallyTimeSpent" value="99001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,7 +265,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28053692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -326,9 +279,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.16475645" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.16189112" />
       <window_info anchor="bottom" id="调试" order="12" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,6 +290,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/yarn.lock">
@@ -394,13 +352,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/logo.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-overrides.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -543,13 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/redux/actions/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/index.ts" />
     <entry file="file://$PROJECT_DIR$/src/redux/reducers/todos.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -635,24 +580,31 @@
     <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx">
+    <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="209">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/Tomatoes.tsx">
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="209">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Tomatoes/TomatoAction.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

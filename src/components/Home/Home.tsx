@@ -3,7 +3,8 @@ import { Menu, Dropdown, Icon} from  "antd";
 import Todos from 'src/components/Todos/Todos'
 import  axios from "src/config/axios"
 import history from "src/config/history"
-import './Index.scss'
+import './Home.scss'
+import Tomatoes from "src/components/Tomatoes/Tomatoes"
 
 
 
@@ -16,7 +17,7 @@ interface IIndexState {
 
 const logout=()=>{
     localStorage.setItem('x-token',"")
-    history.push('/login')
+    history.push('/Login')
 }
 const menu=(
     <Menu>
@@ -25,7 +26,7 @@ const menu=(
     </Menu>
 )
 
-class Index extends React.Component<IRouter,IIndexState>{
+class Home extends React.Component<IRouter,IIndexState>{
     constructor(props: any){
         super(props)
         this.state={
@@ -52,6 +53,7 @@ class Index extends React.Component<IRouter,IIndexState>{
                    </Dropdown>
                </header>
                <main>
+                   < Tomatoes/>
                    <Todos/>
                </main>
            </div>
@@ -59,4 +61,4 @@ class Index extends React.Component<IRouter,IIndexState>{
     }
 }
 
-export default Index;
+export default Home;
